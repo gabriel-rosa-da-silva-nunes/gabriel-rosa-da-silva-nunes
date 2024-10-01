@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Rosa da Silva Nunes and I'm a Fullstack Developer, from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Gabriel Rosa and I'm a Fullstack Developer, from Brazil.</h2>
 
 ###
 
